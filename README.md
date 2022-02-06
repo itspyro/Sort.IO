@@ -1,1 +1,1 @@
-Just use npm start and start on local host. 
+Just use `npm start` and start on local host. 
